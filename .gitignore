@@ -1,0 +1,28 @@
+!Makefile
+
+# Binaries for programs and plugins
+*.dll
+*.so
+*.dylib
+*.test
+*.exe
+.exe
+.exe~
+.DS_Store
+*.db
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+*.pb.go
+*.micro.go
+vendor
+*.
+.vscode
+
+*.log
+*.log.*
+.idea
+test
+temp
+learn-test
+config.json
